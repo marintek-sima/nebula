@@ -45,9 +45,11 @@
    <feature url="features/org.eclipse.nebula.examples.feature_1.0.4.qualifier.jar" id="org.eclipse.nebula.examples.feature" version="1.0.4.qualifier">
       <category name="Nebula Examples View"/>
    </feature>
+<!--
    <feature url="features/org.eclipse.nebula.widgets.cdatetime.feature_0.14.0.qualifier.jar" id="org.eclipse.nebula.widgets.cdatetime.feature" version="0.14.0.qualifier">
       <category name="Nebula Release Individual Widgets"/>
    </feature>
+-->
    <feature url="features/org.eclipse.nebula.widgets.paperclips.feature_2.0.0.qualifier.jar" id="org.eclipse.nebula.widgets.paperclips.feature" version="2.0.0.qualifier">
       <category name="Nebula Release Individual Widgets"/>
    </feature>
